@@ -56,5 +56,15 @@ Note = Backbone.Model.extend({
 module.exports = Note;
 ```
 
+## Running tests
+
+```bash
+> git clone https://github.com/jashkenas/backbone.git
+> cd backbone
+> npm install
+> cd ..
+> npm test
+```
+
 License: MIT
 
